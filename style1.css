@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.iconify{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+}
+/*body{
+    background-color:rgb(66, 66, 66);
+}*/
+.div1{
+    width: 1345px;
+    height: 1300px;
+    border: 1px solid white;   
+}
+.main_header{
+    width: 100px;
+    height: 100%;
+    border: 1px solid white;
+    float: left;
+}
+p{
+    color: white;
+    text-decoration: none;
+    margin-top: 70px;
+    margin-left: 270px;
+}
+h1{
+    color: white;
+    margin-top: 30px;
+    margin-left: 220px;
+}
+.para{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-left: 220px;
+    margin-right: 90px;
+}
+.mypara{
+    color: rgb(192, 191, 191);
+    margin-top: 20px;
+    margin-left: 220px;
+    font-size: 25px;
+}
+img{
+    margin-top: 30px;
+    margin-left: 300px;
+    border-radius: 12px;
+    border: 1px solid darkgrey;
+}
+h3{
+    color: white;
+    margin-top: 30px;
+    margin-left: 220px;
+    font-size: 24px;
+}
